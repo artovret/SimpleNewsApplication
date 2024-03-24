@@ -1,4 +1,4 @@
-package com.titixoid.news.main
+package com.titixoid.news.data
 
 import org.junit.Assert.*
 import org.junit.Test
