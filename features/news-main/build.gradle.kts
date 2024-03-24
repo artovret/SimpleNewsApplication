@@ -51,4 +51,8 @@ dependencies {
     implementation(libs.androidx.lifecycle.viewmodel.compose)
     debugImplementation(libs.androidx.ui.tooling)
     debugImplementation(libs.androidx.ui.test.manifest)
+
+    implementation(libs.kotlinx.coroutines.android)
+    implementation(project(":news-data"))
+
 }
